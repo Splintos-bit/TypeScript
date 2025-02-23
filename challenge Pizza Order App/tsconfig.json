@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "target": "es5", // Or "es6" / "es2015"
+      "lib": ["es2015", "dom"], // Includes the ES2015 and DOM libraries
+      "strict": true,  // Optional but helps ensure strict typing
+      "esModuleInterop": true  // Optional, useful for interoperability with CommonJS modules
+    }
+  }
+  
